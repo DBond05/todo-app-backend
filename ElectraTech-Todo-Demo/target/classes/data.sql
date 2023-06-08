@@ -1,0 +1,1 @@
+insert into todo(id,description,done,target_date,username)values (10001, 'find a job', false, CURRENT_DATE(), 'Demo');
